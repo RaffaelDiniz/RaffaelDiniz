@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/RaffaelDiniz">
-    <img src="BV.ANIMADO.gif" width="500">
+    <img src="BV.ESQUILO.gif" width="500">
   </a>
 </div>
 <br>
