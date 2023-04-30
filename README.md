@@ -41,10 +41,10 @@
     </tr>
     <tr>
       <td>
-        <img src="engenheiro.jpg" width="300px" height="170px">
+        <img src="analistav2.jpg" width="300px" height="170px">
       </td>
       <td>
-          <img src="analista.jpg" width="300px" height="170px">
+          <img src="engenheiro.jpg" width="300px" height="170px">
       </td>
     </tr>
   </table>
