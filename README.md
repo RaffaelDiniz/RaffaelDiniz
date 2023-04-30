@@ -39,3 +39,14 @@
         <b> Engenheiro de Software </b>
       </td>
     </tr>
+
+    <tr>
+      <td>
+        <img src="engenheiro.jpg" width="300px" height="170px">
+      </td>
+      <td>
+          <img src="analista.jpg" width="300px" height="170px">
+      </td>
+    </tr>
+  </table>
+</div>
