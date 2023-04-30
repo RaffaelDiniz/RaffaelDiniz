@@ -16,12 +16,16 @@
   </a>
 </div>
 
-## ⭐️ Sobre mim
+## Sobre mim
 <div align='center'>
-  <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
+  <b>"Esforça-te, e tem bom ânimo; não temas, nem te espantes; porque o Senhor teu Deus é contigo, por onde quer que andares" (Josué 1:9) </b>
 </div><br>
 
 Atualmente trabalho como Analista de Suporte ao Usuário N1 na Atos e estou cursando Engenharia de Software. 
+
+Estou estudando Programação, Lógica, JavaScript, HTML e CSS, SQL e Banco de Dados, entre outras tecnologias.
+
+Sou comunicativo, me expresso bem, proativo, comprometido com o trabalho e com a empresa, concentrado, bem-humorado, atencioso, prestativo, tenho aptidão em trabalhar com pessoas, facilidade em trabalhar em equipe e adaptar a mudanças.
 
 <br><br>
 
