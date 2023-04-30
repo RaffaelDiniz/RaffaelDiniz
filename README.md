@@ -15,3 +15,23 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+## ⭐️ Sobre mim
+<div align='center'>
+  <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
+</div><br>
+
+Atualmente trabalho como Analista de Suporte ao Usuário N1 na Atos e estou cursando Engenharia de Software. 
+
+<br><br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <b> Analista de Suporte ao Usuário N1 </b>
+      </td>
+      <td>
+        <b> Engenheiro de Software </b>
+      </td>
+    </tr>
