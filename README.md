@@ -39,7 +39,6 @@
         <b> Engenheiro de Software </b>
       </td>
     </tr>
-
     <tr>
       <td>
         <img src="engenheiro.jpg" width="300px" height="170px">
