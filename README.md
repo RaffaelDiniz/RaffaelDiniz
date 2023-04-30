@@ -1,4 +1,4 @@
-![Profile views](https://github.com/RaffaelDiniz)
+![Profile views]
 
 <div align="center">
   <a href="https://github.com/RaffaelDiniz">
