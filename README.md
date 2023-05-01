@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/RaffaelDiniz">
-    <img src="BEMVINDO.ANIMADO.gif" width="500">
+    <img src="1.gif" width="500">
   </a>
 </div>
 <br>
@@ -41,10 +41,10 @@
     </tr>
     <tr>
       <td>
-        <img src="analistav2.jpg" width="300px" height="170px">
+        <img src="2.jpg" width="300px" height="170px">
       </td>
       <td>
-          <img src="engenheiro.jpg" width="300px" height="170px">
+          <img src="3.jpg" width="300px" height="170px">
       </td>
     </tr>
   </table>
