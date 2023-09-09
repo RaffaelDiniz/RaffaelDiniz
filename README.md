@@ -21,7 +21,7 @@
   <b>"Esforça-te, e tem bom ânimo; não temas, nem te espantes; porque o Senhor teu Deus é contigo, por onde quer que andares" (Josué 1:9) </b>
 </div><br>
 
-╰┈➤ Atualmente trabalho como Analista de Suporte ao Usuário na TCS e estou cursando Engenharia de Software. 
+╰┈➤ Atualmente trabalho como Analista de Suporte ao Usuário na TCS e estou cursando Engenharia de Software e Inteligência artificial. 
 
 ╰┈➤ Estou estudando Programação, Lógica, JavaScript, HTML e CSS, SQL e Banco de Dados, entre outras tecnologias.
 
@@ -33,7 +33,7 @@
   <table>
     <tr>
       <td>
-        <b> Analista de Suporte ao Usuário N1 </b>
+        <b> Técnico de suporte ao usuário </b>
       </td>
       <td>
         <b> Engenheiro de Software </b>
